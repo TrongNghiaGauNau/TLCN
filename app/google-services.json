@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846505549661",
+    "project_id": "photo-sharing-clone-app-bc8da",
+    "storage_bucket": "photo-sharing-clone-app-bc8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846505549661:android:30746e25858d505b68d2b4",
+        "android_client_info": {
+          "package_name": "com.example.photosharingcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846505549661-7edv55k883dj5nc7n599lkq3c8b96bcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4wU3re2TiNnBT1Cy-qNKyvTISGYHCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846505549661-7edv55k883dj5nc7n599lkq3c8b96bcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
