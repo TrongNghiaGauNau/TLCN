@@ -1,4 +1,4 @@
-# TLCN
+# Mô tả
 Clone Instgram App
 App được thiết kế với mục tiêu tự học hỏi rèn luyện khả năng cá nhân. Từ đó đưa ra sản phẩm cho Tiểu luận chuyên ngành
 
